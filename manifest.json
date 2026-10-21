@@ -1,0 +1,22 @@
+{
+  "name": "NutriTrack AI \u2014 Nutrition Tracker",
+  "short_name": "NutriTrack",
+  "description": "Production AI Nutrition Tracker designed for iPhone Safari",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
